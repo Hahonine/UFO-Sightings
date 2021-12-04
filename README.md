@@ -13,4 +13,4 @@
 
 #### Future Development
 -Change the manual entry boxes to dropdown lists populated by available data. This will prevent some user input errors. This would also allow the inputs to be formatted for visual effect (capitalization, coloration, bolding, etc.)
-- Create a secondary submit form on the page that will allow new sightings to be entered into the data. Potentially seperate new entries from existing data with a "confirmed" boolean filter, and allow the site admin to update new sightings on confirmation.
+-Create a secondary submit form on the page that will allow new sightings to be entered into the data. Potentially seperate new entries from existing data with a "confirmed" boolean filter, and allow the site admin to update new sightings on confirmation.
