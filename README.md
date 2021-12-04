@@ -5,7 +5,9 @@
 
 #### Use of Webpage
 -To filter the table embeded in the webpage, simply type the filter criteria into each filter input field, or leave a field blank to not filter based on that criterion.
+
 ![image info](./statics/Images/filter_example.png Example of Filtered Table for sightings in AR)
+
 -To remove a filter, simply delete the contents of that fitler field, or refresh the page to clear all filters.
 
 #### Drawbacks of presented form
